@@ -31,3 +31,5 @@
 - seaborn 
 - plotly
 - datetime 
+
+### Для того, чтобы отобразились интерактивные графики проекта, нужно пройти по [ссылке](https://nbviewer.jupyter.org/github/danamoore8/yandex-praktikum-projects/blob/main/mobile_app_AB_test/mobile_app_AB_test.ipynb)
